@@ -1,1 +1,1 @@
-pub mod quicksort;
+pub mod isPrime;

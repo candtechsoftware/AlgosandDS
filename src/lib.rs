@@ -1,5 +1,5 @@
 pub mod structures;
-
+pub mod algos;
 #[cfg(test)]
 mod tests {
     #[test]
